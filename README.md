@@ -1,4 +1,4 @@
-# EducacionITSabados
+# EducacionITSabadosEzequielMaldonado
 
 Ejercicio 1>>>>Genghis Capella y Maldonado Ezequiel
 
